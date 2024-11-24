@@ -1,0 +1,9 @@
+{
+	"name": "akgit",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cba4119e-b1c6-4321-ab6d-5b7f8551277a",
+		"tenantId": "1fb07f0d-18df-4dab-806f-289595adae6b"
+	}
+}
